@@ -1,0 +1,19 @@
+{
+  "name": "hrmsapi",
+  "version": "1.0.0",
+  "description": "HRMS Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Milan Sanghani",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21"
+  }
+}
