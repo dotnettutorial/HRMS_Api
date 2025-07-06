@@ -4,6 +4,7 @@
   "description": "HRMS Api",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "node index.js"
   },
   "author": "Milan Sanghani",
