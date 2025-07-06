@@ -2,9 +2,9 @@
   "name": "hrmsapi",
   "version": "1.0.0",
   "description": "HRMS Api",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "node index.js"
   },
   "author": "Milan Sanghani",
   "license": "ISC",
